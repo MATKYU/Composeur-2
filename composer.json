@@ -1,0 +1,16 @@
+{
+    "name": "mathiasbretonneau/composeur-2",
+    "description": "Projet quete composer",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mathias Bretonneau",
+            "email": "Mathias.Rodrigues@gmail.com"
+        }
+    ],
+    "require": {}
+}
